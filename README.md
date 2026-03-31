@@ -1,11 +1,11 @@
 <p align="center">
-  <b>Frontend Engineer building scalable, high-performance web applications 🚀</b>
+  <b>Frontend Engineer | Full Stack Engineer building scalable, high-performance web applications 🚀</b>
 </p>
 
 # 👋 Hi, I'm Varun Sareen  
 
-### 🚀 Frontend Engineer | React • Next.js • TypeScript  
-### 🧠 Building scalable UI, design systems & AI-powered workflows  
+### 🚀 Frontend Engineer | Full Stack Engineer  
+### ⚡ React • Next.js • TypeScript • Scalable UI & Systems  
 
 ---
 
@@ -16,10 +16,10 @@ I’m a **Frontend-focused Full Stack Developer with 4+ years of experience** bu
 I specialize in:
 - ⚡ Creating fast, responsive, and accessible UIs  
 - 🧩 Building reusable component systems & design systems  
-- 🔗 Integrating APIs and full-stack features  
+- 🔗 Integrating APIs and developing full-stack features  
 - 🤖 Exploring AI-driven automation & developer workflows  
 
-I enjoy working at the intersection of **engineering, UX, and performance** — turning complex problems into clean, intuitive products.
+I enjoy working at the intersection of **engineering, UX, and performance** — turning complex problems into clean, intuitive digital experiences.
 
 ---
 
@@ -27,14 +27,25 @@ I enjoy working at the intersection of **engineering, UX, and performance** — 
 
 ### 🧠 Frontend
 - React.js / Next.js  
+- Vue.js / Nuxt.js  
+- Angular  
 - TypeScript / JavaScript  
 - HTML5 / CSS3 / SCSS  
-- Tailwind CSS / Material UI  
+- Tailwind CSS / Material UI / Bootstrap  
+
+### 🔄 State Management
+- Redux / Zustand  
+- Vuex / Pinia  
 
 ### ⚙️ Backend & Data
-- Node.js  
+- Node.js / Java / Golang  
 - REST APIs / GraphQL  
-- MongoDB / PostgreSQL  
+- MySQL / MongoDB / PostgreSQL  
+
+### 🧪 Testing
+- Jest  
+- React Testing Library  
+- Cypress  
 
 ### 🚀 Tools & Workflow
 - Git / GitHub  
@@ -59,16 +70,16 @@ I enjoy working at the intersection of **engineering, UX, and performance** — 
 > Replace these with your actual repositories
 
 - 🔹 **Next.js SSR App**  
-  Scalable server-side rendered application with performance optimization  
+  Scalable server-side rendered application with optimized performance and SEO  
 
 - 🔹 **Component Library / Design System**  
-  Reusable UI components with consistent styling and accessibility  
+  Reusable UI components ensuring consistency, accessibility, and scalability  
 
 - 🔹 **Full Stack App (React + Node.js)**  
   API-driven application with authentication and dynamic data handling  
 
 - 🔹 **AI Automation Project**  
-  Workflow automation using AI tools for development or reporting  
+  Workflow automation using AI tools for development and reporting  
 
 ---
 
@@ -90,9 +101,9 @@ I enjoy working at the intersection of **engineering, UX, and performance** — 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your link]  
-- 📧 Email: [Add your email]  
-- 🌐 Portfolio: [Add if available]  
+- 💼 LinkedIn: https://www.linkedin.com/in/varun-sareen/  
+- 📧 Email: varunsareen11@gmail.com
+- 🌐 Portfolio: https://varun-portfolio-dusky-iota.vercel.app
 
 ---
 
